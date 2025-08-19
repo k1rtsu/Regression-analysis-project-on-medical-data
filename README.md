@@ -1,7 +1,7 @@
 # Data Analysis with Python
 
 This project is part of the **Data Analysis with Python** course.  
-[Link to the course]([link-to-course](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2024-2025))
+[Link to the course]([https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2024-2025](link to the course)
 
 ## Dataset
 
@@ -13,4 +13,4 @@ This dataset is a subset of the Framingham Heart Study data. It contains **14 co
 
 ## Project Notebook
 
-You can find the project notebook here: [Link to the notebook]([link-to-notebook](https://github.com/k1rtsu/Regression-analysis-project-on-medical-data/blob/main/src/project_notebook_regression_analysis.ipynb))
+You can find the project notebook here: [https://github.com/k1rtsu/Regression-analysis-project-on-medical-data/blob/main/src/project_notebook_regression_analysis.ipynb](link-to-notebook)
